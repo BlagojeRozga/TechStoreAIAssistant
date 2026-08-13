@@ -1,17 +1,26 @@
 {
   "name": "techstoreaiassistant",
   "version": "1.0.0",
-  "description": "AI za koriscenje usluga",
-  "main": "index.js",
+  "description": "AI product assistant with vector search, reranking, conversation memory and RAG",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "test": "node tests/chat.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlagojeRozga/TechStoreAIAssistant.git"
+    "url": "https://github.com/BlagojeRozga/TechStoreAIAssistant.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ai",
+    "rag",
+    "vector-search",
+    "embeddings",
+    "chatbot",
+    "nodejs",
+    "express"
+  ],
+  "author": "Blagoje Rozgic",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
