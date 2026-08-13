@@ -27,6 +27,9 @@ function detectIntent(query) {
     // Kamera
     if (
         text.includes("kamera") ||
+        text.includes("kameru") ||
+        text.includes("kamere") ||
+        text.includes("kamerom") ||
         text.includes("megapiksel") ||
         /\bmp\b/.test(text)
     ) {
