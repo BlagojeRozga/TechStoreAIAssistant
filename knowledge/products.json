@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "price": 999,
+    "ram": 8,
+    "storage": [128, 256, 512],
+    "display": "6.1 OLED",
+    "battery": 3561,
+    "camera": 48,
+    "cpu": "Apple A18"
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "price": 999,
+    "ram": 12,
+    "storage": [256, 512],
+    "display": "6.2 AMOLED",
+    "battery": 4000,
+    "camera": 50,
+    "cpu": "Snapdragon 8 Elite"
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 9",
+    "price": 899,
+    "ram": 12,
+    "storage": [128, 256],
+    "display": "6.3 OLED",
+    "battery": 4700,
+    "camera": 50,
+    "cpu": "Tensor G4"
+  },
+  {
+    "id": 4,
+    "brand": "Xiaomi",
+    "model": "15",
+    "price": 849,
+    "ram": 12,
+    "storage": [256, 512],
+    "display": "6.36 AMOLED",
+    "battery": 5400,
+    "camera": 50,
+    "cpu": "Snapdragon 8 Elite"
+  },
+  {
+    "id": 5,
+    "brand": "Nothing",
+    "model": "Phone 3",
+    "price": 799,
+    "ram": 12,
+    "storage": [256],
+    "display": "6.67 OLED",
+    "battery": 5000,
+    "camera": 50,
+    "cpu": "Snapdragon 8s Gen 4"
+  }
+]
